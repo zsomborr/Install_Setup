@@ -20,6 +20,3 @@ pip3 install gunicorn
 sudo apt install curl
 wget -qO- https://cli-assets.heroku.com/install-ubuntu.sh | sh
 sudo apt install default-jdk
-sudo update-alternatives --config java
-echo JAVA_HOME="<JAVAPATH>" >> /etc/environment
-source /etc/environment
