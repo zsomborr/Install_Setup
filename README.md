@@ -2,7 +2,8 @@
 ## sh for fresh OS (ubuntu 20.04 LTS)
 
 ### Hello Codecooler!
-#### Run this in the terminal for quick setup of your ubuntu. 
+#### Before running the sh file in the terminal write in your variables in the < var > places, you don't need the "<", ">"
+
 #### This install script includes the following:
 
 >creates directories:
