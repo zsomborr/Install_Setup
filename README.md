@@ -55,10 +55,12 @@
 >>>Enter name of role to add: < codecooler >
 >>>
 >>>Shall the new role be a superusers? (y/n) y
+>>>
+>>> psql
 >
->typein psql console:
+>type in psql console:
 >
->>ALTER USER your_user_name WITH PASSWORD < password >;
+>>ALTER USER < your_user_name > WITH PASSWORD '< password >';
 
 #### download link for jetbrains:
 
