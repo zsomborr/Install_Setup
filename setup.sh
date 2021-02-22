@@ -12,7 +12,6 @@ git config --global user.email <EMAIL>
 git config --global user.password <PASSWORD>
 sudo pip3 install virtualenv
 sudo pip3 install Flask
-echo 'export PATH=$PATH:<PYTHONPATH>' >> .bashrc
 sudo apt-get install postgresql postgresql-contrib -y
 sudo apt-get install python3-dev libpq-dev postgresql-client postgresql-client-common -y
 sudo pip3 install psycopg2
