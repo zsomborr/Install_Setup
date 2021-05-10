@@ -17,6 +17,5 @@ sudo apt-get install python3-dev libpq-dev postgresql-client postgresql-client-c
 sudo pip3 install psycopg2
 pip3 install gunicorn
 sudo apt install curl
-sudo apt-get instal maven
 wget -qO- https://cli-assets.heroku.com/install-ubuntu.sh | sh
 sudo apt install default-jdk
